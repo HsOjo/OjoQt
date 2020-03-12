@@ -13,7 +13,7 @@ setuptools.setup(
     author="HsOjo",
     author_email="hsojo@qq.com",
     keywords='hsojo python3',
-    description='''HsOjo's Private PyQt Package.''',
+    description='''HsOjo's Private PyQt5 Package.''',
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/HsOjo/OjoQt/",
