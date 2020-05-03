@@ -46,6 +46,7 @@ class GraphicsWidget(QWidget):
             painter=lambda: self._painter,
             scale=lambda: self._scale,
             mouse=lambda: self._mouse,
+            keyboard=lambda: self._keyboard,
             dt=lambda: self._dt,
             fps=lambda: self._fps,
         )
